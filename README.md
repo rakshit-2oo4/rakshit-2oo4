@@ -1,16 +1,16 @@
 # 💫 About Me:
 🔭 **I’m currently working on:**  
 MERN Stack-based full-stack web applications, including real-world clones like Airbnb and Spotify.  
-<br><br>
+<br>
 👯 **I’m looking to collaborate on:**  
 Web development and full-stack projects, especially React and Node-based systems.  
-<br><br>
+<br>
 🌱 **I’m currently learning:**  
 Advanced JavaScript frameworks, backend optimizations, and UI/UX with modern CSS libraries.  
-<br><br>
+<br>
 💬 **Ask me about:**  
 JavaScript, MERN Stack, React, Node.js, and building scalable web apps.  
-<br><br>
+<br>
 ⚡ **Fun fact:**  
 I enjoy building clones of popular apps to understand their architecture and functionality!
 
