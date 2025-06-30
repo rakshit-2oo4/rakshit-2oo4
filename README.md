@@ -47,15 +47,4 @@ Weather app built with React, Material UI, and live weather API integration.
 A responsive front-end Spotify homepage recreation.  
 🔧 Tech: HTML, CSS, Media Queries, Flex/Grid
 
-# 🏫 Education:
-🎓 B.Tech, Computer Science Engineering  
-📍 Vaishno College of Engineering, HP  
-📅 2022 – Present
-
-# 📌 Achievements & Activities:
-🏆 Winner – School-level Science Quiz Competition  
-🧢 NSS Volunteer – Awarded in NSS Camp  
-👨‍🏫 Team Lead – RSS, organized sessions for 50+ students
-
 ---
-
