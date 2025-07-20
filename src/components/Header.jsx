@@ -40,12 +40,6 @@ const Header = () => {
                     className="flex items-center justify-center border-2 border-solid rounded-full mr-1 p-3 cursor-pointer transition-all duration-200 hover:bg-gray-100 hover:text-black">
                     <img src={X} className="w-6 h-6 mr-2 opacity-100 bg-white rounded-full" /> twitter
                 </a>
-                <a
-                    href="mailto:rakshits.123456@gmail.com"
-                    className="flex items-center justify-center border-2 border-solid rounded-full mr-1 p-3 cursor-pointer transition-all duration-200 hover:bg-gray-100 hover:text-black" >
-                    <img src={Mail} alt="Mail Icon" className="w-6 h-6 mr-2 opacity-100 bg-white rounded-full"/>
-                    Mail
-                </a>
             </div>
             <div className="text-center mx-2">
                 <p>Hi, My name is Rakshit and I am a Full Stack
