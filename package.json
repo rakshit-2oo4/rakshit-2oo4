@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "rollup -c",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -28,7 +28,6 @@
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.2.0",
-    "rollup": "^4.45.1",
     "vite": "^7.0.0"
   }
 }
