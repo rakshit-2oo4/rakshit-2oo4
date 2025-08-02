@@ -16,7 +16,7 @@ const Footer = () => {
             </div>
             <div className="w-28 h-28 ml-80 sm:w-32 sm:h-32 ml-2 sm:ml-10 lg:w-32 lg:h-32 lg:ml-15">
                 <a
-                    href="https://drive.google.com/file/d/1l6KdbsU7pmHr0B8Kwp5hx0OP6u1EYLH3/view?usp=drive_link"
+                    href="https://drive.google.com/file/d/1FqS-bT1GUdLFxud84LO3GK4xpstndVow/view?usp=drive_link"
                     className="flex items-center justify-center border-2 border-solid rounded-full mr-1 p-2 sm:p-3 cursor-pointer transition-all duration-200 hover:bg-gray-100 hover:text-black text-sm sm:text-base" >
                     <img src={Drive} alt="Drive Icon" className="w-5 h-5 sm:w-6 sm:h-6 mr-1 sm:mr-2 opacity-100 bg-white rounded-full" />
                     <span className="whitespace-nowrap">Resume</span>
