@@ -126,10 +126,3 @@ A responsive front-end recreation of the Spotify homepage.
 - **XII (HP Board)** — Government Senior Secondary School (2021–2022)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshit-2oo4&show_icons=true&theme=radical" alt="Rakshit's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshit-2oo4&theme=radical" alt="Rakshit's GitHub streak" />
-</p>
