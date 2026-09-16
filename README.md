@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakshit Sharma</h1>
-<h3 align="center">Full-Stack Developer — MERN • React Native • NextJS • NestJS</h3>
+<h3 align="center">Full-Stack Developer — MERN / PERN • React Native • NestJS</h3>
 
 <p align="center">
   <a href="https://github.com/rakshit-2oo4" target="_blank">
@@ -106,17 +106,20 @@ A multi-tenant Core HR + CRM system built with NestJS and Prisma.
 - Auto-generated, S3-hosted PDF invoices and offer letters
 - **Stack:** NestJS, Prisma, PostgreSQL, React, Redux Toolkit (RTK Query), AWS S3
 
+#### 🧠 Site Builder
+Generates complete websites from simple natural language prompts — no manual HTML/CSS required.
+🔗 [Live Demo](https://site-builder-opal.vercel.app/) · [Repo](https://github.com/rakshit-2oo4/Site-Builder)
+**Stack:** React 19, TypeScript, Vite, Tailwind CSS v4, Express 5, Prisma, PostgreSQL, OpenAI SDK, Stripe, better-auth
+
+#### 🛒 Quick Cart
+A full-stack eCommerce app with Clerk authentication, product management, Cloudinary image uploads, and Inngest-powered background jobs.
+🔗 [Live Demo](https://quick-cart-seven-flame.vercel.app/)
+**Stack:** Next.js 15, React 19, MongoDB, Clerk, Inngest, Cloudinary
+
 #### 🏡 Wanderlust (Airbnb Clone)
 A full-featured Airbnb clone with authentication, property listings, and reviews.
 🔗 [Live Demo](https://majorproject-ku1r.onrender.com/listings) · **Stack:** MERN, Bootstrap, EJS
 
-#### 🌤️ Weather App
-A weather app with live API integration and a clean Material UI interface.
-**Stack:** React, Material UI, REST APIs
-
-#### 🎵 Spotify Clone
-A responsive front-end recreation of the Spotify homepage.
-**Stack:** HTML, CSS, Flexbox/Grid
 
 ---
 
